@@ -24,7 +24,7 @@
 			<key>PayloadIdentifier</key>
 			<string>vevrl9air2.cloudflare-gateway.com.profile</string>
 			<key>PayloadOrganization</key>
-			<string>Blocking Cert Revocation Yes Block Ads</string>
+			<string>Blocks them Ads</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
@@ -68,7 +68,7 @@
 			<key>PayloadIdentifier</key>
 			<string>khoindvn.bio.link.profile</string>
 			<key>PayloadOrganization</key>
-			<string>Blocking Cert Revocation No Block Ads</string>
+			<string>Stops Certificate Revokes</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
